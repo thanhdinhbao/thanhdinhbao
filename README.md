@@ -19,7 +19,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thanhdinhbao&show_icons=true&locale=en&layout=compact" alt="thanhdinhbao" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thanhdinhbao&" alt="thanhdinhbao" /></p>
+# <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thanhdinhbao&" alt="thanhdinhbao" /></p>
 
 
 # 📷 Other Skill:
