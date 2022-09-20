@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @thanhdinhbao
 - 👀 I’m interested in watching film, reading book and playing games.
 - 🌱 I’m currently learning at Viet Tri High School
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m lonely
 - 📫 How to reach me ...
 
 <!---
