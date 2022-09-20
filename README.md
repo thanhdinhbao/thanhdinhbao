@@ -1,3 +1,4 @@
+https://rishavanand.github.io/static/images/greetings.gif
 <h1 align="center">Hi 👋, I'm Thanh Dinh Bao</h1>
 <h3 align="center">I'm from VietNam</h3>
 
