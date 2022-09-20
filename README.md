@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning at Viet Tri High School
 - 💞️ I’m lonely
 - 📫 How to reach me ...
+[Contribution guidelines for this project](docs/CONTRIBUTING.md)
 
 <!---
 thanhdinhbao/thanhdinhbao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
